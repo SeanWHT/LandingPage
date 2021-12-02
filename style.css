@@ -1,0 +1,14 @@
+html{
+  background-color:white;
+}
+body{
+background-color: #d8dede;
+background-image: linear-gradient(315deg, #d8dede 0%, #e5bdf6 74%);
+  background-repeat:no-repeat;
+  color:darkblue;
+}
+img{
+  float:right;
+  width:7em;
+  height:11em;
+}
